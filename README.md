@@ -1,4 +1,4 @@
-# commerch
+# Commerch
 
 About this project:
 Commerch is an inspiring concept web application that aims to revolutionize the fashion and merchandise industry for local Filipinos. By focusing on the local market, Commerch not only provides a convenient platform for Filipinos to meet their fashion needs but also envisions reduced or even eliminated shipping costs, making it more accessible than ever. This innovative approach empowers both buyers and local sellers, encouraging entrepreneurship and supporting the growth of the local fashion community. Commerch is a testament to the potential of e-commerce to create positive change and uplift the Filipino people, while fostering a vibrant online marketplace for fashion and merchandise.
