@@ -18,10 +18,12 @@ Written in:
 * MySQL
 
 Resources:
-* Mockup: https://www.figma.com/file/CPZW2ubPj2PY8PtVkRX2Dn/COMMERCH?type=design&node-id=0%3A1&t=PL8nRPISbZHaZvJP-1
-* Database Design: 
+* Mockup: https://www.figma.com/file/CPZW2ubPj2PY8PtVkRX2Dn/COMMERCH?type=design&node-id=0%3A1&t=PL8nRPISbZHaZvJP-1 (Work in progress)
+* Database Design: (Work in progress)
 * Font: https://www.dafontfree.co/agelast-font/
-* Graphics & Logos:  
+* Graphics & Logos:  (Work in progress)
+* Privacy Policy: (Work in progress)
+* Terms & Conditions: (Work in progress)
 
 Referrences used:
 * cartpage: https://www.pinterest.ph/pin/130815564167655631/visual-search/?x=10&y=10&w=544&h=403&cropSource=6&imageSignature=0b4411899268d0dd1f4afcaf81b79a84
