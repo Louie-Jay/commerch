@@ -19,7 +19,7 @@ Written in:
 
 Resources:
 * Mockup: https://www.figma.com/file/CPZW2ubPj2PY8PtVkRX2Dn/COMMERCH?type=design&node-id=0%3A1&t=PL8nRPISbZHaZvJP-1 (Work in progress)
-* Database Design: (Work in progress)
+* Database Design: https://dbdiagram.io/d/64898f87722eb77494f18927 (Work in progress)
 * Font: https://www.dafontfree.co/agelast-font/
 * Graphics & Logos:  (Work in progress)
 * Privacy Policy: (Work in progress)
