@@ -30,3 +30,4 @@ Referrences used:
 * aboutuspage: https://www.pinterest.ph/pin/588916088792654365/
 * dashboard: Shoppee & Lazada
 * sellerpage: Shoppee Seller Centre
+* database: https://fabric.inc/wp-content/uploads/hubspot/table-relationships-ecommerce-database.png
