@@ -21,7 +21,7 @@ Resources:
 * Mockup: https://www.figma.com/file/CPZW2ubPj2PY8PtVkRX2Dn/COMMERCH?type=design&node-id=0%3A1&t=PL8nRPISbZHaZvJP-1 (Work in progress)
 * Database Design: https://dbdiagram.io/d/64898f87722eb77494f18927 (Work in progress)
 * Font: https://www.dafontfree.co/agelast-font/
-* Graphics & Logos:  (Work in progress)
+* Graphics & Logos:  https://drive.google.com/drive/folders/1hae7iZfshSaJ31i3zarBsmrO4waeKh7D?usp=sharing (Work in progress)
 * Privacy Policy: (Work in progress)
 * Terms & Conditions: (Work in progress)
 
@@ -31,3 +31,4 @@ Referrences used:
 * dashboard: Shoppee & Lazada
 * sellerpage: Shoppee Seller Centre
 * database: https://fabric.inc/wp-content/uploads/hubspot/table-relationships-ecommerce-database.png
+* productspage: Lazada & Shopee + https://www.pinterest.ph/pin/1031887333346329396/
